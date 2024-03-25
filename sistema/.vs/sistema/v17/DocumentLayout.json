@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\produto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\produto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\produto.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\produto.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\sistema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\sistema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\menu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\menu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\fornecedor.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\fornecedor.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\cliente.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\cliente.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\cliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\cliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\categorias.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\categorias.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\isabe\\onedrive\\documentos\\github\\tbl_pavnovo\\sistema\\sistema\\categorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\categorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Produto.cs",
+              "RelativeDocumentMoniker": "sistema\\Produto.cs",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Produto.cs",
+              "RelativeToolTip": "sistema\\Produto.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:40:32.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Produto.Designer.cs",
+              "RelativeDocumentMoniker": "sistema\\Produto.Designer.cs",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Produto.Designer.cs",
+              "RelativeToolTip": "sistema\\Produto.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:42:11.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Produto.cs",
+              "RelativeDocumentMoniker": "sistema\\Produto.cs",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Produto.cs [Projeto]",
+              "RelativeToolTip": "sistema\\Produto.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:40:13.647Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Menu.cs",
+              "RelativeDocumentMoniker": "sistema\\Menu.cs",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Menu.cs",
+              "RelativeToolTip": "sistema\\Menu.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:59:23.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Menu.cs",
+              "RelativeDocumentMoniker": "sistema\\Menu.cs",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Menu.cs [Projeto]",
+              "RelativeToolTip": "sistema\\Menu.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:53:38.085Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "sistema\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Menu.Designer.cs",
+              "RelativeToolTip": "sistema\\Menu.Designer.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAADgv7cAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:01:45.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sistema",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\sistema.csproj",
+              "RelativeDocumentMoniker": "sistema\\sistema.csproj",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\sistema.csproj",
+              "RelativeToolTip": "sistema\\sistema.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T00:51:54.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.resx",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Menu.resx",
+              "RelativeDocumentMoniker": "sistema\\Menu.resx",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Menu.resx",
+              "RelativeToolTip": "sistema\\Menu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-25T00:42:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Produto.resx",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Produto.resx",
+              "RelativeDocumentMoniker": "sistema\\Produto.resx",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Produto.resx",
+              "RelativeToolTip": "sistema\\Produto.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-25T01:59:59.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Fornecedor.resx",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Fornecedor.resx",
+              "RelativeDocumentMoniker": "sistema\\Fornecedor.resx",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Fornecedor.resx",
+              "RelativeToolTip": "sistema\\Fornecedor.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-25T00:42:02.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.resx",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Cliente.resx",
+              "RelativeDocumentMoniker": "sistema\\Cliente.resx",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Cliente.resx",
+              "RelativeToolTip": "sistema\\Cliente.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-25T00:41:57.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Cliente.Designer.cs",
+              "RelativeDocumentMoniker": "sistema\\Cliente.Designer.cs",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Cliente.Designer.cs",
+              "RelativeToolTip": "sistema\\Cliente.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:41:55.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Categorias.resx",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Categorias.resx",
+              "RelativeDocumentMoniker": "sistema\\Categorias.resx",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Categorias.resx",
+              "RelativeToolTip": "sistema\\Categorias.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-25T00:41:52.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Categorias.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Categorias.Designer.cs",
+              "RelativeDocumentMoniker": "sistema\\Categorias.Designer.cs",
+              "ToolTip": "C:\\Users\\isabe\\OneDrive\\Documentos\\GitHub\\tbl_Pavnovo\\sistema\\sistema\\Categorias.Designer.cs",
+              "RelativeToolTip": "sistema\\Categorias.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:41:45.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

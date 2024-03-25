@@ -59,6 +59,7 @@
             btn_CadastrarP.TabIndex = 28;
             btn_CadastrarP.Text = "Cadastrar";
             btn_CadastrarP.UseVisualStyleBackColor = true;
+            btn_CadastrarP.Click += btn_CadastrarP_Click;
             // 
             // btn_ExcluirP
             // 
@@ -68,6 +69,7 @@
             btn_ExcluirP.TabIndex = 27;
             btn_ExcluirP.Text = "Excluir";
             btn_ExcluirP.UseVisualStyleBackColor = true;
+            btn_ExcluirP.Click += btn_ExcluirP_Click;
             // 
             // btn_CancelarP
             // 
@@ -77,6 +79,7 @@
             btn_CancelarP.TabIndex = 26;
             btn_CancelarP.Text = "Cancelar";
             btn_CancelarP.UseVisualStyleBackColor = true;
+            btn_CancelarP.Click += btn_CancelarP_Click;
             // 
             // btn_NovoP
             // 
@@ -86,6 +89,7 @@
             btn_NovoP.TabIndex = 25;
             btn_NovoP.Text = "Novo";
             btn_NovoP.UseVisualStyleBackColor = true;
+            btn_NovoP.Click += btn_NovoP_Click;
             // 
             // txt_Descricao
             // 
@@ -93,6 +97,7 @@
             txt_Descricao.Name = "txt_Descricao";
             txt_Descricao.Size = new Size(125, 27);
             txt_Descricao.TabIndex = 24;
+            
             // 
             // txt_Descriçao
             // 
@@ -118,6 +123,7 @@
             txt_ValorP.Name = "txt_ValorP";
             txt_ValorP.Size = new Size(125, 27);
             txt_ValorP.TabIndex = 31;
+            
             // 
             // txt_Categoria
             // 
@@ -125,6 +131,7 @@
             txt_Categoria.Name = "txt_Categoria";
             txt_Categoria.Size = new Size(125, 27);
             txt_Categoria.TabIndex = 32;
+            
             // 
             // txt_CategoriaP
             // 
