@@ -28,203 +28,108 @@
         /// </summary>
         private void InitializeComponent()
         {
-            buAlterar = new Button();
-            buExcluir = new Button();
-            buFechar = new Button();
-            buConsultar = new Button();
-            buIniciar = new Button();
-            btn_SalvarF = new Button();
-            textBox5 = new TextBox();
-            label5 = new Label();
-            label4 = new Label();
-            label3 = new Label();
-            label2 = new Label();
-            label1 = new Label();
-            textBoxEnderecoF = new TextBox();
-            textBoxTelefoneF = new TextBox();
-            textBox2 = new TextBox();
-            textBoxNomeF = new TextBox();
+            GridFornecedor = new DataGridView();
+            btn_AlterarF = new Button();
+            btn_ExcluirF = new Button();
+            btn_CancelarF = new Button();
+            btn_NovoF = new Button();
+            txt_Fornecedor = new TextBox();
+            txt_Fornecedor2 = new Label();
+            ((System.ComponentModel.ISupportInitialize)GridFornecedor).BeginInit();
             SuspendLayout();
             // 
-            // buAlterar
+            // GridFornecedor
             // 
-            buAlterar.Location = new Point(633, 121);
-            buAlterar.Name = "buAlterar";
-            buAlterar.Size = new Size(94, 29);
-            buAlterar.TabIndex = 35;
-            buAlterar.Text = "Alterar";
-            buAlterar.UseVisualStyleBackColor = true;
+            GridFornecedor.AllowUserToAddRows = false;
+            GridFornecedor.AllowUserToDeleteRows = false;
+            GridFornecedor.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            GridFornecedor.Location = new Point(12, 158);
+            GridFornecedor.Name = "GridFornecedor";
+            GridFornecedor.ReadOnly = true;
+            GridFornecedor.RowHeadersWidth = 51;
+            GridFornecedor.Size = new Size(572, 254);
+            GridFornecedor.TabIndex = 42;
             // 
-            // buExcluir
+            // btn_AlterarF
             // 
-            buExcluir.Location = new Point(633, 241);
-            buExcluir.Name = "buExcluir";
-            buExcluir.Size = new Size(94, 29);
-            buExcluir.TabIndex = 34;
-            buExcluir.Text = "Excluir";
-            buExcluir.UseVisualStyleBackColor = true;
+            btn_AlterarF.Location = new Point(142, 71);
+            btn_AlterarF.Name = "btn_AlterarF";
+            btn_AlterarF.Size = new Size(94, 29);
+            btn_AlterarF.TabIndex = 41;
+            btn_AlterarF.Text = "Alterar";
+            btn_AlterarF.UseVisualStyleBackColor = true;
             // 
-            // buFechar
+            // btn_ExcluirF
             // 
-            buFechar.Location = new Point(614, 339);
-            buFechar.Name = "buFechar";
-            buFechar.Size = new Size(144, 51);
-            buFechar.TabIndex = 33;
-            buFechar.Text = "Fechar";
-            buFechar.UseVisualStyleBackColor = true;
+            btn_ExcluirF.Location = new Point(254, 71);
+            btn_ExcluirF.Name = "btn_ExcluirF";
+            btn_ExcluirF.Size = new Size(94, 29);
+            btn_ExcluirF.TabIndex = 40;
+            btn_ExcluirF.Text = "Excluir";
+            btn_ExcluirF.UseVisualStyleBackColor = true;
             // 
-            // buConsultar
+            // btn_CancelarF
             // 
-            buConsultar.Location = new Point(633, 183);
-            buConsultar.Name = "buConsultar";
-            buConsultar.Size = new Size(94, 29);
-            buConsultar.TabIndex = 32;
-            buConsultar.Text = "consultar";
-            buConsultar.UseVisualStyleBackColor = true;
+            btn_CancelarF.Location = new Point(369, 71);
+            btn_CancelarF.Name = "btn_CancelarF";
+            btn_CancelarF.Size = new Size(94, 29);
+            btn_CancelarF.TabIndex = 39;
+            btn_CancelarF.Text = "Cancelar";
+            btn_CancelarF.UseVisualStyleBackColor = true;
             // 
-            // buIniciar
+            // btn_NovoF
             // 
-            buIniciar.Location = new Point(633, 67);
-            buIniciar.Name = "buIniciar";
-            buIniciar.Size = new Size(94, 29);
-            buIniciar.TabIndex = 31;
-            buIniciar.Text = "Incluir";
-            buIniciar.UseVisualStyleBackColor = true;
+            btn_NovoF.Location = new Point(22, 71);
+            btn_NovoF.Name = "btn_NovoF";
+            btn_NovoF.Size = new Size(94, 29);
+            btn_NovoF.TabIndex = 38;
+            btn_NovoF.Text = "Novo";
+            btn_NovoF.UseVisualStyleBackColor = true;
             // 
-            // btn_SalvarF
+            // txt_Fornecedor
             // 
-            btn_SalvarF.Location = new Point(42, 290);
-            btn_SalvarF.Name = "btn_SalvarF";
-            btn_SalvarF.Size = new Size(94, 29);
-            btn_SalvarF.TabIndex = 30;
-            btn_SalvarF.Text = "Salvar";
-            btn_SalvarF.UseVisualStyleBackColor = true;
-            btn_SalvarF.Click += btn_SalvarF_Click;
+            txt_Fornecedor.Location = new Point(102, 28);
+            txt_Fornecedor.Name = "txt_Fornecedor";
+            txt_Fornecedor.Size = new Size(125, 27);
+            txt_Fornecedor.TabIndex = 37;
             // 
-            // textBox5
+            // txt_Fornecedor2
             // 
-            textBox5.Location = new Point(151, 220);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(125, 27);
-            textBox5.TabIndex = 29;
-            // 
-            // label5
-            // 
-            label5.AutoSize = true;
-            label5.Location = new Point(79, 102);
-            label5.Name = "label5";
-            label5.Size = new Size(66, 20);
-            label5.TabIndex = 28;
-            label5.Text = "Telefone";
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Location = new Point(79, 143);
-            label4.Name = "label4";
-            label4.Size = new Size(71, 20);
-            label4.TabIndex = 27;
-            label4.Text = "endereço";
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Location = new Point(79, 186);
-            label3.Name = "label3";
-            label3.Size = new Size(52, 20);
-            label3.TabIndex = 26;
-            label3.Text = "e-mail";
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(79, 220);
-            label2.Name = "label2";
-            label2.Size = new Size(41, 20);
-            label2.TabIndex = 25;
-            label2.Text = "Sexo";
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Location = new Point(79, 64);
-            label1.Name = "label1";
-            label1.Size = new Size(50, 20);
-            label1.TabIndex = 24;
-            label1.Text = "Nome";
-            // 
-            // textBoxEnderecoF
-            // 
-            textBoxEnderecoF.Location = new Point(151, 140);
-            textBoxEnderecoF.Name = "textBoxEnderecoF";
-            textBoxEnderecoF.Size = new Size(125, 27);
-            textBoxEnderecoF.TabIndex = 23;
-            // 
-            // textBoxTelefoneF
-            // 
-            textBoxTelefoneF.Location = new Point(151, 99);
-            textBoxTelefoneF.Name = "textBoxTelefoneF";
-            textBoxTelefoneF.Size = new Size(125, 27);
-            textBoxTelefoneF.TabIndex = 22;
-            // 
-            // textBox2
-            // 
-            textBox2.Location = new Point(151, 186);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(125, 27);
-            textBox2.TabIndex = 21;
-            // 
-            // textBoxNomeF
-            // 
-            textBoxNomeF.Location = new Point(151, 61);
-            textBoxNomeF.Name = "textBoxNomeF";
-            textBoxNomeF.Size = new Size(125, 27);
-            textBoxNomeF.TabIndex = 20;
+            txt_Fornecedor2.AutoSize = true;
+            txt_Fornecedor2.Location = new Point(22, 31);
+            txt_Fornecedor2.Name = "txt_Fornecedor2";
+            txt_Fornecedor2.Size = new Size(84, 20);
+            txt_Fornecedor2.TabIndex = 36;
+            txt_Fornecedor2.Text = "Fornecedor";
+            txt_Fornecedor2.Click += txt_categoria_Click;
             // 
             // frm_Fornecedor
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(buAlterar);
-            Controls.Add(buExcluir);
-            Controls.Add(buFechar);
-            Controls.Add(buConsultar);
-            Controls.Add(buIniciar);
-            Controls.Add(btn_SalvarF);
-            Controls.Add(textBox5);
-            Controls.Add(label5);
-            Controls.Add(label4);
-            Controls.Add(label3);
-            Controls.Add(label2);
-            Controls.Add(label1);
-            Controls.Add(textBoxEnderecoF);
-            Controls.Add(textBoxTelefoneF);
-            Controls.Add(textBox2);
-            Controls.Add(textBoxNomeF);
+            Controls.Add(GridFornecedor);
+            Controls.Add(btn_AlterarF);
+            Controls.Add(btn_ExcluirF);
+            Controls.Add(btn_CancelarF);
+            Controls.Add(btn_NovoF);
+            Controls.Add(txt_Fornecedor);
+            Controls.Add(txt_Fornecedor2);
             Name = "frm_Fornecedor";
             Text = "Fornecedor";
+            ((System.ComponentModel.ISupportInitialize)GridFornecedor).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private Button buAlterar;
-        private Button buExcluir;
-        private Button buFechar;
-        private Button buConsultar;
-        private Button buIniciar;
-        private Button btn_SalvarF;
-        private TextBox textBox5;
-        private Label label5;
-        private Label label4;
-        private Label label3;
-        private Label label2;
-        private Label label1;
-        private TextBox textBoxEnderecoF;
-        private TextBox textBoxTelefoneF;
-        private TextBox textBox2;
-        private TextBox textBoxNomeF;
+        private DataGridView GridFornecedor;
+        private Button btn_AlterarF;
+        private Button btn_ExcluirF;
+        private Button btn_CancelarF;
+        private Button btn_NovoF;
+        private TextBox txt_Fornecedor;
+        private Label txt_Fornecedor2;
     }
 }
