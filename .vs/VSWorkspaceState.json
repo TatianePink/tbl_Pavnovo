@@ -2,8 +2,18 @@
   "ExpandedNodes": [
     "",
     "\\sistema",
+<<<<<<< HEAD
     "\\sistema\\sistema"
   ],
   "SelectedNode": "\\sistema\\sistema\\Menu.Designer.cs",
+=======
+    "\\sistema\\sistema",
+    "\\sistema\\sistema\\bin",
+    "\\sistema\\sistema\\bin\\Debug",
+    "\\sistema\\sistema\\bin\\Debug\\net8.0-windows",
+    "\\sistema\\sistema\\bin\\Release",
+    "\\sistema\\sistema\\obj"
+  ],
+>>>>>>> 76bb51fcd22960b85fb70b20bf961e3ccf2f755b
   "PreviewInSolutionExplorer": false
 }

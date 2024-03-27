@@ -18,6 +18,7 @@ C:\Users\tatip\source\repos\trabalho de pav\sistema\sistema\obj\Debug\net8.0-win
 C:\Users\tatip\source\repos\trabalho de pav\sistema\sistema\obj\Debug\net8.0-windows\sistema.frm_Fornecedor.resources
 C:\Users\tatip\source\repos\trabalho de pav\sistema\sistema\obj\Debug\net8.0-windows\sistema.fmr_Produto.resources
 C:\Users\tatip\source\repos\trabalho de pav\sistema\sistema\obj\Debug\net8.0-windows\sistema.fmr_Cliente2.resources
+<<<<<<< HEAD
 C:\Users\tatip\Source\Repos\TatianePink\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\sistema.exe
 C:\Users\tatip\Source\Repos\TatianePink\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\sistema.deps.json
 C:\Users\tatip\Source\Repos\TatianePink\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\sistema.runtimeconfig.json
@@ -40,3 +41,41 @@ C:\Users\tatip\Source\Repos\TatianePink\tbl_Pavnovo\sistema\sistema\obj\Debug\ne
 C:\Users\tatip\Source\Repos\TatianePink\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.genruntimeconfig.cache
 C:\Users\tatip\Source\Repos\TatianePink\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\ref\sistema.dll
 C:\Users\tatip\Source\Repos\TatianePink\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.frmVendas.resources
+=======
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\refint\sistema.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.pdb
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\sistema.exe
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\sistema.deps.json
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\sistema.runtimeconfig.json
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\sistema.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\sistema.pdb
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.frm_Categorias.resources
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.fmr_Cliente2.resources
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.frm_Fornecedor.resources
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.fmr_Menu.resources
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.fmr_Produto.resources
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.csproj.GenerateResource.cache
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.AssemblyInfo.cs
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.sourcelink.json
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.genruntimeconfig.cache
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\ref\sistema.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.csproj.AssemblyReference.cache
+C:\Users\isabe\OneDrive\Documentos\GitHub\tbl_Pavnovo\sistema\sistema\obj\Debug\net8.0-windows\sistema.csproj.Up2Date
+>>>>>>> 76bb51fcd22960b85fb70b20bf961e3ccf2f755b
