@@ -134,6 +134,7 @@
             Controls.Add(GridVendas);
             Name = "frmVendas";
             Text = "Vendas";
+            Load += frmVendas_Load;
             ((System.ComponentModel.ISupportInitialize)GridVendas).EndInit();
             ResumeLayout(false);
             PerformLayout();
