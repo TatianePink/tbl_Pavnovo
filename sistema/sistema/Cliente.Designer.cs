@@ -28,115 +28,119 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btn_Salvar = new System.Windows.Forms.Button();
-            this.buAlterar = new System.Windows.Forms.Button();
-            this.buExcluir = new System.Windows.Forms.Button();
-            this.buFechar = new System.Windows.Forms.Button();
-            this.buConsultar = new System.Windows.Forms.Button();
-            this.buIniciar = new System.Windows.Forms.Button();
-            this.dgvPessoa = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvPessoa)).BeginInit();
-            this.SuspendLayout();
+            btn_Salvar = new Button();
+            GridCliente = new DataGridView();
+            btn_AlterarCliente = new Button();
+            btn_ExcluirCliente = new Button();
+            btn_CancelarCliente = new Button();
+            btn_NovoCliente = new Button();
+            txt_Cliente2 = new TextBox();
+            txt_cliente = new Label();
+            ((System.ComponentModel.ISupportInitialize)GridCliente).BeginInit();
+            SuspendLayout();
             // 
             // btn_Salvar
             // 
-            this.btn_Salvar.Location = new System.Drawing.Point(63, 293);
-            this.btn_Salvar.Name = "btn_Salvar";
-            this.btn_Salvar.Size = new System.Drawing.Size(94, 29);
-            this.btn_Salvar.TabIndex = 10;
-            this.btn_Salvar.Text = "Salvar";
-            this.btn_Salvar.UseVisualStyleBackColor = true;
-          //  this.btn_Salvar.Click += new System.EventHandler(this.btn_Salvar_Click);
+            btn_Salvar.Location = new Point(559, 72);
+            btn_Salvar.Name = "btn_Salvar";
+            btn_Salvar.Size = new Size(94, 29);
+            btn_Salvar.TabIndex = 10;
+            btn_Salvar.Text = "Salvar";
+            btn_Salvar.UseVisualStyleBackColor = true;
             // 
-            // buAlterar
+            // GridCliente
             // 
-            this.buAlterar.Location = new System.Drawing.Point(654, 124);
-            this.buAlterar.Name = "buAlterar";
-            this.buAlterar.Size = new System.Drawing.Size(94, 29);
-            this.buAlterar.TabIndex = 19;
-            this.buAlterar.Text = "Alterar";
-            this.buAlterar.UseVisualStyleBackColor = true;
-           // this.buAlterar.Click += new System.EventHandler(this.buAlterar_Click);
+            GridCliente.AllowUserToAddRows = false;
+            GridCliente.AllowUserToDeleteRows = false;
+            GridCliente.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            GridCliente.Location = new Point(102, 149);
+            GridCliente.Name = "GridCliente";
+            GridCliente.ReadOnly = true;
+            GridCliente.RowHeadersWidth = 51;
+            GridCliente.Size = new Size(572, 254);
+            GridCliente.TabIndex = 29;
             // 
-            // buExcluir
+            // btn_AlterarCliente
             // 
-            this.buExcluir.Location = new System.Drawing.Point(654, 244);
-            this.buExcluir.Name = "buExcluir";
-            this.buExcluir.Size = new System.Drawing.Size(94, 29);
-            this.buExcluir.TabIndex = 18;
-            this.buExcluir.Text = "Excluir";
-            this.buExcluir.UseVisualStyleBackColor = true;
-          //  this.buExcluir.Click += new System.EventHandler(this.buExcluir_Click);
+            btn_AlterarCliente.Location = new Point(192, 72);
+            btn_AlterarCliente.Name = "btn_AlterarCliente";
+            btn_AlterarCliente.Size = new Size(94, 29);
+            btn_AlterarCliente.TabIndex = 28;
+            btn_AlterarCliente.Text = "Alterar";
+            btn_AlterarCliente.UseVisualStyleBackColor = true;
             // 
-            // buFechar
+            // btn_ExcluirCliente
             // 
-            this.buFechar.Location = new System.Drawing.Point(635, 342);
-            this.buFechar.Name = "buFechar";
-            this.buFechar.Size = new System.Drawing.Size(144, 51);
-            this.buFechar.TabIndex = 17;
-            this.buFechar.Text = "Fechar";
-            this.buFechar.UseVisualStyleBackColor = true;
-           // this.buFechar.Click += new System.EventHandler(this.buFechar_Click);
+            btn_ExcluirCliente.Location = new Point(304, 72);
+            btn_ExcluirCliente.Name = "btn_ExcluirCliente";
+            btn_ExcluirCliente.Size = new Size(94, 29);
+            btn_ExcluirCliente.TabIndex = 27;
+            btn_ExcluirCliente.Text = "Excluir";
+            btn_ExcluirCliente.UseVisualStyleBackColor = true;
             // 
-            // buConsultar
+            // btn_CancelarCliente
             // 
-            this.buConsultar.Location = new System.Drawing.Point(654, 186);
-            this.buConsultar.Name = "buConsultar";
-            this.buConsultar.Size = new System.Drawing.Size(94, 29);
-            this.buConsultar.TabIndex = 16;
-            this.buConsultar.Text = "Consultar";
-            this.buConsultar.UseVisualStyleBackColor = true;
-           // this.buConsultar.Click += new System.EventHandler(this.buConsultar_Click);
+            btn_CancelarCliente.Location = new Point(419, 72);
+            btn_CancelarCliente.Name = "btn_CancelarCliente";
+            btn_CancelarCliente.Size = new Size(94, 29);
+            btn_CancelarCliente.TabIndex = 26;
+            btn_CancelarCliente.Text = "Cancelar";
+            btn_CancelarCliente.UseVisualStyleBackColor = true;
             // 
-            // buIniciar
+            // btn_NovoCliente
             // 
-            this.buIniciar.Location = new System.Drawing.Point(654, 70);
-            this.buIniciar.Name = "buIniciar";
-            this.buIniciar.Size = new System.Drawing.Size(94, 29);
-            this.buIniciar.TabIndex = 15;
-            this.buIniciar.Text = "Incluir";
-            this.buIniciar.UseVisualStyleBackColor = true;
-          //  this.buIniciar.Click += new System.EventHandler(this.buIniciar_Click);
+            btn_NovoCliente.Location = new Point(72, 72);
+            btn_NovoCliente.Name = "btn_NovoCliente";
+            btn_NovoCliente.Size = new Size(94, 29);
+            btn_NovoCliente.TabIndex = 25;
+            btn_NovoCliente.Text = "Novo";
+            btn_NovoCliente.UseVisualStyleBackColor = true;
             // 
-            // dgvPessoa
+            // txt_Cliente2
             // 
-            this.dgvPessoa.AllowUserToOrderColumns = true;
-            this.dgvPessoa.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvPessoa.Location = new System.Drawing.Point(324, 85);
-            this.dgvPessoa.MultiSelect = false;
-            this.dgvPessoa.Name = "dgvPessoa";
-            this.dgvPessoa.ReadOnly = true;
-            this.dgvPessoa.RowHeadersWidth = 51;
-            this.dgvPessoa.Size = new System.Drawing.Size(300, 188);
-            this.dgvPessoa.TabIndex = 20;
+            txt_Cliente2.Location = new Point(152, 29);
+            txt_Cliente2.Name = "txt_Cliente2";
+            txt_Cliente2.Size = new Size(125, 27);
+            txt_Cliente2.TabIndex = 24;
+            // 
+            // txt_cliente
+            // 
+            txt_cliente.AutoSize = true;
+            txt_cliente.Location = new Point(72, 32);
+            txt_cliente.Name = "txt_cliente";
+            txt_cliente.Size = new Size(53, 20);
+            txt_cliente.TabIndex = 23;
+            txt_cliente.Text = "cliente";
             // 
             // fmr_Cliente2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.dgvPessoa);
-            this.Controls.Add(this.buAlterar);
-            this.Controls.Add(this.buExcluir);
-            this.Controls.Add(this.buFechar);
-            this.Controls.Add(this.buConsultar);
-            this.Controls.Add(this.buIniciar);
-            this.Controls.Add(this.btn_Salvar);
-            this.Name = "fmr_Cliente2";
-            this.Text = "Cliente";
-            ((System.ComponentModel.ISupportInitialize)(this.dgvPessoa)).EndInit();
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(GridCliente);
+            Controls.Add(btn_AlterarCliente);
+            Controls.Add(btn_ExcluirCliente);
+            Controls.Add(btn_CancelarCliente);
+            Controls.Add(btn_NovoCliente);
+            Controls.Add(txt_Cliente2);
+            Controls.Add(txt_cliente);
+            Controls.Add(btn_Salvar);
+            Name = "fmr_Cliente2";
+            Text = "Cliente";
+            ((System.ComponentModel.ISupportInitialize)GridCliente).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
         private System.Windows.Forms.Button btn_Salvar;
-        private System.Windows.Forms.Button buAlterar;
-        private System.Windows.Forms.Button buExcluir;
-        private System.Windows.Forms.Button buFechar;
-        private System.Windows.Forms.Button buConsultar;
-        private System.Windows.Forms.Button buIniciar;
-        private System.Windows.Forms.DataGridView dgvPessoa;
+        private DataGridView GridCliente;
+        private Button btn_AlterarCliente;
+        private Button btn_ExcluirCliente;
+        private Button btn_CancelarCliente;
+        private Button btn_NovoCliente;
+        private TextBox txt_Cliente2;
+        private Label txt_cliente;
     }
 }
