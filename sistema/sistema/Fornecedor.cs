@@ -24,7 +24,12 @@ namespace sistema
             string telefone = textBoxTelefoneF.Text;
 
             MessageBox.Show("Fornecedor salvo com sucesso!");
-        
-    }
+
+        }
+
+        private void txt_categoria_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

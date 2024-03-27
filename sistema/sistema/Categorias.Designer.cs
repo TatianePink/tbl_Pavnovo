@@ -40,9 +40,12 @@
             // 
             // dataGridView1
             // 
+            dataGridView1.AllowUserToAddRows = false;
+            dataGridView1.AllowUserToDeleteRows = false;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(101, 162);
             dataGridView1.Name = "dataGridView1";
+            dataGridView1.ReadOnly = true;
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(572, 254);
             dataGridView1.TabIndex = 22;
@@ -85,7 +88,7 @@
             // 
             // txt_Cliente2
             // 
-            txt_Cliente2.Location = new Point(101, 34);
+            txt_Cliente2.Location = new Point(112, 34);
             txt_Cliente2.Name = "txt_Cliente2";
             txt_Cliente2.Size = new Size(125, 27);
             txt_Cliente2.TabIndex = 13;
@@ -112,7 +115,8 @@
             Controls.Add(txt_Cliente2);
             Controls.Add(txt_categoria);
             Name = "frm_Categorias";
-            Text = "Categorias";
+            Text = " ";
+            Load += frm_Categorias_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();

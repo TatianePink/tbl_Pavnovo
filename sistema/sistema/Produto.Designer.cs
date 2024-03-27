@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             dataGridView1 = new DataGridView();
-            btn_CadastrarP = new Button();
+            btn_AlterarP = new Button();
             btn_ExcluirP = new Button();
             btn_CancelarP = new Button();
             btn_NovoP = new Button();
@@ -51,14 +51,14 @@
             dataGridView1.Size = new Size(572, 254);
             dataGridView1.TabIndex = 29;
             // 
-            // btn_CadastrarP
+            // btn_AlterarP
             // 
-            btn_CadastrarP.Location = new Point(201, 77);
-            btn_CadastrarP.Name = "btn_CadastrarP";
-            btn_CadastrarP.Size = new Size(94, 29);
-            btn_CadastrarP.TabIndex = 28;
-            btn_CadastrarP.Text = "Cadastrar";
-            btn_CadastrarP.UseVisualStyleBackColor = true;
+            btn_AlterarP.Location = new Point(201, 77);
+            btn_AlterarP.Name = "btn_AlterarP";
+            btn_AlterarP.Size = new Size(94, 29);
+            btn_AlterarP.TabIndex = 28;
+            btn_AlterarP.Text = "Alterartrar";
+            btn_AlterarP.UseVisualStyleBackColor = true;
             // 
             // btn_ExcluirP
             // 
@@ -129,7 +129,7 @@
             // txt_CategoriaP
             // 
             txt_CategoriaP.AutoSize = true;
-            txt_CategoriaP.Location = new Point(491, 44);
+            txt_CategoriaP.Location = new Point(474, 37);
             txt_CategoriaP.Name = "txt_CategoriaP";
             txt_CategoriaP.Size = new Size(74, 20);
             txt_CategoriaP.TabIndex = 33;
@@ -145,7 +145,7 @@
             Controls.Add(txt_ValorP);
             Controls.Add(txt_Valor);
             Controls.Add(dataGridView1);
-            Controls.Add(btn_CadastrarP);
+            Controls.Add(btn_AlterarP);
             Controls.Add(btn_ExcluirP);
             Controls.Add(btn_CancelarP);
             Controls.Add(btn_NovoP);
@@ -162,7 +162,7 @@
         #endregion
 
         private DataGridView dataGridView1;
-        private Button btn_CadastrarP;
+        private Button btn_AlterarP;
         private Button btn_ExcluirP;
         private Button btn_CancelarP;
         private Button btn_NovoP;

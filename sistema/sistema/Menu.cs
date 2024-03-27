@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -67,6 +68,28 @@ namespace sistema
         private void categoriaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             frm_Categorias frm = new frm_Categorias();
+            frm.Show();
+        }
+
+        private void fmr_Menu_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                var strConexao = ("server=localhost;uid=root;pwd=123456;database=pavbanco");
+                var conexao = new MySqlConnection(strConexao);
+            }
+                conexao.Open();
+            MessageBox.Show("tudo certo");
+
+        }
+        Catch(Exception ex)
+        {
+            MessageBox.Show("ocorreu um erro" + ex.Message);
+        }
+
+        private void btnVendas_Click(object sender, EventArgs e)
+        {
+            frmVendas frm = new frmVendas();
             frm.Show();
         }
     }

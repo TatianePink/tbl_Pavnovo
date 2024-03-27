@@ -16,8 +16,8 @@
     <Compile Update="Produto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="TabelaPessoa.cs">
-      <SubType>Component</SubType>
+    <Compile Update="Vendas.cs">
+      <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
 </Project>

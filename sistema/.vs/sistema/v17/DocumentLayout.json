@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|c:\\users\\tatip\\source\\repos\\tatianepink\\tbl_pavnovo\\sistema\\sistema\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\produto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\produto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\produto.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\produto.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\produtomani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\produtomani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\vendas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\vendas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132F440-5D39-4CF7-80C5-2906F3894F2D}|sistema\\sistema.csproj|solutionrelative:sistema\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "sistema\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Menu.Designer.cs",
+              "RelativeToolTip": "sistema\\Menu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:00:26.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Menu.cs",
+              "RelativeDocumentMoniker": "sistema\\Menu.cs",
+              "ToolTip": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Menu.cs",
+              "RelativeToolTip": "sistema\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:57:20.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Program.cs",
+              "RelativeDocumentMoniker": "sistema\\Program.cs",
+              "ToolTip": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Program.cs",
+              "RelativeToolTip": "sistema\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:08:02.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoMani.cs",
+              "DocumentMoniker": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\ProdutoMani.cs",
+              "RelativeDocumentMoniker": "sistema\\ProdutoMani.cs",
+              "ToolTip": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\ProdutoMani.cs",
+              "RelativeToolTip": "sistema\\ProdutoMani.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:04:08.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vendas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Vendas.Designer.cs",
+              "RelativeDocumentMoniker": "sistema\\Vendas.Designer.cs",
+              "ToolTip": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Vendas.Designer.cs",
+              "RelativeToolTip": "sistema\\Vendas.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:07:49.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Produto.Designer.cs",
+              "RelativeDocumentMoniker": "sistema\\Produto.Designer.cs",
+              "ToolTip": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Produto.Designer.cs",
+              "RelativeToolTip": "sistema\\Produto.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T02:59:33.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Produto.cs",
+              "RelativeDocumentMoniker": "sistema\\Produto.cs",
+              "ToolTip": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Produto.cs [Projeto]",
+              "RelativeToolTip": "sistema\\Produto.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:19:36.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Menu.cs",
+              "RelativeDocumentMoniker": "sistema\\Menu.cs",
+              "ToolTip": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Menu.cs [Projeto]",
+              "RelativeToolTip": "sistema\\Menu.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:56:30.667Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.resx",
+              "DocumentMoniker": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Produto.resx",
+              "RelativeDocumentMoniker": "sistema\\Produto.resx",
+              "ToolTip": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Produto.resx",
+              "RelativeToolTip": "sistema\\Produto.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-27T04:00:00.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vendas.cs",
+              "DocumentMoniker": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Vendas.cs",
+              "RelativeDocumentMoniker": "sistema\\Vendas.cs",
+              "ToolTip": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Vendas.cs",
+              "RelativeToolTip": "sistema\\Vendas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:05:09.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vendas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Vendas.cs",
+              "RelativeDocumentMoniker": "sistema\\Vendas.cs",
+              "ToolTip": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Vendas.cs [Projeto]",
+              "RelativeToolTip": "sistema\\Vendas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:05:05.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Produto.cs",
+              "RelativeDocumentMoniker": "sistema\\Produto.cs",
+              "ToolTip": "C:\\Users\\tatip\\source\\repos\\TatianePink\\tbl_Pavnovo\\sistema\\sistema\\Produto.cs",
+              "RelativeToolTip": "sistema\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:34:55.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

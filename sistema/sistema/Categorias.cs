@@ -16,5 +16,10 @@ namespace sistema
         {
             InitializeComponent();
         }
+
+        private void frm_Categorias_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
